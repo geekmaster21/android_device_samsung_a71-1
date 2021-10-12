@@ -1,0 +1,7 @@
+ro.display.series=Samsung Galaxy A71
+ro.product.board=sm6150
+ro.board.platform=sm6150
+sys.usb.controller=a600000.dwc3
+ro.boot.dynamic_partitions=true
+#fbe.metadata.wrappedkey=true
+ro.boot.bootdevice=1d84000.ufshc
