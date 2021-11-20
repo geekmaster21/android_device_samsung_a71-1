@@ -58,7 +58,7 @@ QCOM_BOARD_PLATFORMS += sm6150
 TARGET_PREBUILT_KERNEL := device/samsung/a71/prebuilt/Image.gz
 TARGET_PREBUILT_DTB := device/samsung/a71/prebuilt/dtb
 BOARD_PREBUILT_DTBOIMAGE := device/samsung/a71/prebuilt/recoverydtbo
-BOARD_INCLUDE_DTB_IN_BOOTIMG := true
+#BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_INCLUDE_RECOVERY_DTBO := true
 TARGET_KERNEL_ARCH := arm64
 
